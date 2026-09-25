@@ -1,0 +1,1030 @@
+[33mcommit fcb70ced38785bb0994c6bbf51135dc27aa080cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlesson2[m[33m)[m
+Author: ArbideDiego <diegoarbide7@hotmail.com>
+Date:   Thu Sep 24 20:38:12 2026 -0600
+
+    Add Git cheatcode
+
+[33mcommit 6c48bb3b386254e7d2ee3ad8273a1cae97b030eb[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: de781ee c1c00da
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 24 18:04:47 2026 -0600
+
+    Merge features/breakpoints_serial_leds_buttons into main
+    
+    Publishing lessons on debugging and LEDs buttons
+
+[33mcommit c1c00da7e778017ff4189cbd1c7d6608b261dd6a[m
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Thu Sep 24 16:36:54 2026 -0600
+
+    fixing missed folder deletion
+    
+    Change-Id: I1bb501c2a3207464948682b2ddb874e3183b684c
+
+[33mcommit 3741211d492fd03ee1018f509c0a804a9312b0af[m
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Thu Sep 24 16:36:54 2026 -0600
+
+    fixing missed folder deletion
+    
+    Change-Id: I1bb501c2a3207464948682b2ddb874e3183b684c
+
+[33mcommit cd071a0ed1228d76514d96ee99e3e838ad6f0d9b[m
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Thu Sep 24 16:33:28 2026 -0600
+
+    respond to review comments on lessons 3 and 4
+    
+    Change-Id: I1fbee2f9a420e76c09d04f02006576ed2b1e4169
+
+[33mcommit dccb351f0fe3072c7329c0b8e032cd78ce0a8eac[m
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Thu Sep 24 16:32:11 2026 -0600
+
+    deleting old lessons 3 & 4
+    
+    Change-Id: I5c8c8fefff7e5fa7eb159214661d6335cf1a3907
+
+[33mcommit 957c346a5c5cf850d0afe91543c2b6ddf49ed1e6[m
+Merge: a6169d5 de781ee
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Thu Sep 24 11:01:25 2026 -0600
+
+    Merge commit 'de781ee6c1d71f4feb9efdf75a439296a6577b52' into features/breakpoints_serial_leds_buttons
+    
+    * commit 'de781ee6c1d71f4feb9efdf75a439296a6577b52':
+      Respond to feedback
+      Update version control lesson
+      Update vscode git extensions and settings
+    
+    Change-Id: I47b9df7283d85b4bc41f88083ef5ff573476fdff
+
+[33mcommit a6169d567c48b1cab83720d57b0863e5d37db829[m[33m ([m[1;31morigin/features/breakpoints_serial_leds_buttons[m[33m)[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Sep 23 23:06:36 2026 -0600
+
+    Add challenge exercise to lesson 3
+    
+    Add challenge exercise to debug a linked list program
+
+[33mcommit cce07198c1c3a21dd331135fa6182292181a9bf2[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Sep 23 22:44:34 2026 -0600
+
+    Respond to feedback for lesson 3
+    
+    - Rename to lesson 3
+    - Redirect to lesson 1 for vscode extension setup
+    - Fix format issue
+
+[33mcommit de781ee6c1d71f4feb9efdf75a439296a6577b52[m
+Merge: c91a905 f1a4b7b
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 17 17:49:34 2026 -0600
+
+    Merge features/source-control-update into main
+    
+    Features/source control update
+
+[33mcommit f1a4b7bdf969a06987124a96ae4153a162764d65[m[33m ([m[1;31morigin/features/source-control-update[m[33m)[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Sep 16 22:39:04 2026 -0600
+
+    Respond to feedback
+    
+    Address Issues #48 and #47. Respond to feedback on source control
+    updates
+
+[33mcommit af2b725a146309e82dcd8f614ea07f41d1558ee7[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sun Sep 13 21:48:25 2026 -0600
+
+    Update version control lesson
+    
+    - Add section on git editor settings
+    - Add VSCode git integration section
+    - Add additional git resources
+
+[33mcommit fa4790ef2a7afc1e016b4827f70cafe6c05fb8de[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sun Sep 13 21:25:05 2026 -0600
+
+    Update vscode git extensions and settings
+    
+    Remove git lens from recommended extensions and replace it with the git
+    blame editor decoration setting.
+
+[33mcommit e7b7ba49c4da94f4f272bfa3f2e55a6b469f72a4[m
+Author: FiddlerNeb <b.odegaard@hotmail.co.uk>
+Date:   Mon Sep 7 14:25:11 2026 -0600
+
+    applied review feedback to lesson 2 & 3.
+
+[33mcommit 538c3cc851ba2d38cf590c39e933dfa669ad600e[m
+Author: Benjamin Odegaard <benjamin.odegaard@garmin.com>
+Date:   Mon Aug 24 14:24:33 2026 -0600
+
+    Publishing lessons on debugging and LEDs buttons
+    
+    Change-Id: I5a8a939ba93e7c9b63565d851cb43ecb1a18cab3
+
+[33mcommit c91a9053a2b7581681f400dab1e8c5a12a2f4ac0[m
+Merge: 438d002 63ee04a
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sat Jul 11 20:31:29 2026 -0600
+
+    Merge features/lesson-one-improvements into main
+    
+    features/lesson-one-improvements
+     * 63ee04a Respond to feedback
+     * 99eddf8 Merge main into features/lesson-one-improvements
+     * 1f2368b Add shield option to build task
+     * 9d2a49f Update readme link for lesson 1
+     * 988504b Add VScode intro section
+     * ec83187 Add clangd config file
+     * a863404 Add VSCode instructions to lesson 1
+     * 0dae376 Convert lesson from markdown to adoc
+
+[33mcommit 438d002116a45a802e7d472402f702895a1eab56[m
+Merge: 83a8da0 1a602c9
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sat Jul 11 20:17:21 2026 -0600
+
+    Merge features/uv into main
+    
+    features/uv
+     * 1a602c9 Respond to feedback
+     * 6b0a7ee Add new lines around images
+     * 74c9b92 Update lesson 1 virtual env documentation
+     * 999ce8c Add UV project files
+     * 443483a Update zephyr version
+
+[33mcommit 63ee04a7d4e7a678b3a6ce3c56b9181a6e53f188[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 10 21:39:09 2026 -0600
+
+    Respond to feedback
+
+[33mcommit 99eddf8f53afb2f3f7554e5123f846ce565a5bc2[m
+Merge: 1f2368b 83a8da0
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 10 19:45:29 2026 -0600
+
+    Merge main into features/lesson-one-improvements
+    
+    main
+    * 9cbb13d Merge main into features/lesson-one-improvements
+    * 83a8da0 Merge features/compiler-warnings into master
+    * 5974b79 Respond to feedback on compiler warnings addition
+    * 4954fee Add warnings as option flags to compiler options
+
+[33mcommit 1a602c9e887f2d2e99268488574b07a3c09825db[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 10 19:39:49 2026 -0600
+
+    Respond to feedback
+    
+    - Remove .python-version file
+    - Update python version to 3.12.1 minimum
+
+[33mcommit 83a8da0a5bb2df3ead0a65b709fae7cc92904f74[m
+Merge: 18111c5 5974b79
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 10 19:33:58 2026 -0600
+
+    Merge features/compiler-warnings into master
+    
+    features/compiler-warnings
+     * 5974b79 Respond to feedback on compiler warnings addition
+     * 4954fee Add warnings as option flags to compiler options
+
+[33mcommit 5974b7994b0c0869981674663b7134ed534371c1[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jul 9 21:17:15 2026 -0600
+
+    Respond to feedback on compiler warnings addition
+    
+    Add Wvla, Wdouble-promotion, and Wshadow, Use
+    CONFIG_COMPILER_WARNINGS_AS_ERRORS instead of Werror, and move warning
+    config to root level CMake file.
+
+[33mcommit 1f2368b332ed00935ef7e849ef58f07d2d480535[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sat Jul 4 11:27:49 2026 -0600
+
+    Add shield option to build task
+
+[33mcommit 9d2a49fb9b74e2cf6150f1e53088ce3d2d2b9c99[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 3 23:11:01 2026 -0600
+
+    Update readme link for lesson 1
+
+[33mcommit 988504baaea5c2e9f543e44750d0635450de721f[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 3 23:05:53 2026 -0600
+
+    Add VScode intro section
+    
+    Add section documenting VScode editor integrations that are setup
+
+[33mcommit ec83187fd8f8624606df4933763bb38ca0776411[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Fri Jul 3 21:27:52 2026 -0600
+
+    Add clangd config file
+
+[33mcommit a863404a49f05bfed024f1b4b921a3549a2e6e14[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sun Jun 28 14:56:16 2026 -0600
+
+    Add VSCode instructions to lesson 1
+
+[33mcommit 0dae376a9296a7bfb63302455f8236d0e15908bc[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sun Jun 28 13:50:06 2026 -0600
+
+    Convert lesson from markdown to adoc
+
+[33mcommit 4954fee50ae9c42834414ea1688754bc572a644f[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sat Jun 27 14:58:39 2026 -0600
+
+    Add warnings as option flags to compiler options
+    
+    Add Wall, Wextra, and Werror options when compiling app
+
+[33mcommit 6b0a7ee5e8c23420b2ea48425c5b6ae91f7eba4e[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jun 16 20:35:12 2026 -0600
+
+    Add new lines around images
+    
+    Add new lines around images so they render on their own lines in the
+    github markdown viewer
+
+[33mcommit 74c9b9241acc2fbe8e03b2603387924296e61c97[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jun 16 19:57:08 2026 -0600
+
+    Update lesson 1 virtual env documentation
+    
+    - Add instructions to install UV]
+    - Centralize all project setup instructions with new UV additions as
+      this is mostly OS agnostic
+    - Add section on what virtual environments are, why we use them, and how
+      to work with them for this course.
+
+[33mcommit 999ce8c82a26adde3f9957fd79d4e947eb78f352[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jun 16 18:43:12 2026 -0600
+
+    Add UV project files
+    
+    Add UV project files to set python version and python package versions.
+
+[33mcommit 443483a1a324fd45fea21b4ece4fef349e9baacb[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jun 16 18:36:22 2026 -0600
+
+    Update zephyr version
+    
+    Increment zephyr version from 4.2.0 to 4.4.0
+
+[33mcommit 18111c5f2d9f7e5f95f0f8efbd0ed392e0d06b69[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jan 29 19:58:15 2026 -0700
+
+    Fix issues with windows file paths
+    
+    Windows ignores cases in file paths which was causing issues with two
+    files that had the same name except for casing. Rename one file
+
+[33mcommit aa835ea5a01c51679661c32bde9d50228cfa5041[m
+Merge: 7a77a0f aa7da22
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jan 29 18:28:13 2026 -0700
+
+    Merge features/zephyr-modules into master
+    
+    Features/zephyr modules
+
+[33mcommit aa7da226e05c8584846b5878c16da911a008bffc[m[33m ([m[1;31morigin/features/zephyr-modules[m[33m)[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Jan 28 20:38:32 2026 -0700
+
+    Finalize zephyr modules lesson
+    
+    * Add introduction section
+    * Add widget tree diagram
+    * Add link to lesson to readme
+
+[33mcommit 0ab2ca597289571e76bddf5e37a2593f00775673[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jan 27 23:26:53 2026 -0700
+
+    Add zephyr modules lesson
+    
+    Add zephyr modules lesson on how to use the LVGL module to control the
+    LCD
+
+[33mcommit 5d4219e9479ce02aff521f27c0950e4cc30fa935[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jan 27 21:31:26 2026 -0700
+
+    Format main.c
+
+[33mcommit e2bf48073ce999d0107090e5d871622ad7a5244b[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jan 27 20:30:45 2026 -0700
+
+    Remove CMSIS line from manifest
+
+[33mcommit 974836eb19c3185a5af907da235153267b8e9e57[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Tue Jan 27 07:52:03 2026 -0700
+
+    Initial commit of LV data object
+    
+    The LV event callback user data field is unsafe as the user data pointer
+    must remain valid for the lifetime of event.
+    
+    Create a new LV object class for storing data that can be created as a
+    child of the object the event is attached to, LV will automatically call
+    the destructor of the data class if the parent object is deleted.
+
+[33mcommit 7a77a0ff4c6fe2db740d4ef1c37bbeef67de88ce[m
+Merge: 02cd5e3 02fc8da
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jan 22 18:40:31 2026 -0700
+
+    Merge features/serial into main
+    
+    Features/serial
+
+[33mcommit 02fc8dab62807e7b9af7b8947f75d838976b5488[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jan 22 18:38:08 2026 -0700
+
+    Add serial information and SPI documentation
+
+[33mcommit 2862e3c903187a1a07ea27ea48c7c8a3c1ffd7f8[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Jan 21 23:56:13 2026 -0700
+
+    Add I2C lesson and exercises
+    
+    Add I2C lesson details documenting how to talk to the touch controller
+    and exercises for the touch controller and LCD driver.
+
+[33mcommit ba7e90f4a20383b47c445504e63ffb5f8a48b653[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Jan 21 20:04:27 2026 -0700
+
+    Add SPI colour mapping
+
+[33mcommit f47dad34a504f41812e3a555ff17a547e1ac1b0d[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Jan 21 00:17:13 2026 -0700
+
+    Add SPI lesson details
+    
+    Add spi lesson details documenting how to setup SPI to talk to the
+    ILI9341 LCD controller.
+
+[33mcommit e4e205f7b1072d5f65896db550ca44bb0b483a3c[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Jan 19 22:23:00 2026 -0700
+
+    Initial commit of serial protocol lesson
+    
+    Initial commit of serial protocol lesson. Contains rough lesson layout
+    and beginning of lesson content focusing on SPI.
+
+[33mcommit 02cd5e35ae350f5595802d6d94bd5952d33e066b[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Jan 15 18:40:24 2026 -0700
+
+    Add BLE central lesson link to readme
+
+[33mcommit 5b359b35360d327d9f9680ffa00d094cc6bd3f22[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Jan 15 18:36:37 2026 -0700
+
+    Add BLE central lesson
+
+[33mcommit d219b32dc03fc0828dbb772300a171369bc7a4d0[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 27 19:17:01 2025 -0700
+
+    Add BLE peripheral includes
+
+[33mcommit c70ac170d2ae3af416fc71faebad868fd37a9fa6[m
+Merge: 4dbfa1e 6d9fac2
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 27 18:34:00 2025 -0700
+
+    Merge pull request #36 from eiefirmware/lesson/ble_peripheral
+    
+    Lesson/ble peripheral
+
+[33mcommit 6d9fac2596f7596969e45446fbc0f6eb55c2aaf2[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 27 17:26:40 2025 -0700
+
+    Finish up BLE peripheral lesson
+
+[33mcommit 2905f53296f4be04b96370d26d0aebee6b7894ba[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 27 13:10:06 2025 -0700
+
+    Add initial BLE peripheral lesson
+
+[33mcommit 4dbfa1ed42dedc3378aff9f593df63cb1bf7a7d2[m
+Merge: 04b6717 a179559
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Nov 20 18:19:13 2025 -0700
+
+    Merge lesson/ble_merge into main
+    
+    Lesson/ble merge
+
+[33mcommit a17955903ca55feaf47ef74dc41a3816d4495efa[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Nov 20 18:15:25 2025 -0700
+
+    Revert source changes before merge
+    
+    We don't want the BLE example on main. Revert the source changes before
+    merging to main.
+
+[33mcommit fbad82f51112c105c1ac9c880eb2543d8db1c018[m[33m ([m[1;31morigin/samples/ble_peripheral[m[33m)[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 20 17:59:12 2025 -0700
+
+    Fix incorrect info around reads, remove unused var
+
+[33mcommit e7ca599c1d91813f368ae96a08d986e44e973352[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Nov 20 17:45:41 2025 -0700
+
+    Finish off BLE intro README, cleanup example code
+
+[33mcommit 540a3c3af93ab7ed1c05b8d95f0320ce73a297d9[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Tue Nov 18 17:10:56 2025 -0700
+
+    Add initial BLE intro lesson
+
+[33mcommit 04b671780342e4c799ea3c565aaf47354aee2dda[m
+Merge: 1c3c94c cddfcec
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Oct 30 18:20:41 2025 -0600
+
+    Merge pull request #21 from Marcus-Skarsgard/lesson6_fixes
+    
+    Address lesson 6 feedback
+
+[33mcommit cddfcecf92e43fd00047d8c141af317adcc83a7b[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Thu Oct 30 18:18:13 2025 -0600
+
+    Address lesson 6 feedback
+
+[33mcommit 1c3c94c0e50cec6de16b0be9e7887b3d84e2cd30[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Oct 30 08:21:47 2025 -0600
+
+    Remove duplicate includes
+
+[33mcommit efd1df037a6e19b4f0503cb273ef0f7cd84a3b9b[m
+Merge: 411e7ce 76bda7f
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 30 08:01:00 2025 -0600
+
+    Merge pull request #20 from Marcus-Skarsgard/pwm_leds
+    
+    Lesson 6 plan
+
+[33mcommit 76bda7fd8656370a960741178479d9044cd08577[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sun Oct 26 16:42:13 2025 -0600
+
+    Add mini project spec to lesson 6
+
+[33mcommit 411e7ce96d2adce819f520352c905a74509f0652[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 18:33:18 2025 -0600
+
+    Fix diagram paths
+
+[33mcommit 26ce924fa145de2342da7e0aaf6fb8d52b0a73d2[m
+Merge: 793d0aa 5f7f9de
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 18:27:31 2025 -0600
+
+    Merge feature/lesson5 into main
+    
+    Feature/lesson5
+
+[33mcommit 5f7f9deb5c43ca6b5e3baad349f7b576b9372640[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 18:02:21 2025 -0600
+
+    Fix diagrams not rendering in github
+    
+    Github doesn't render plantuml diagrams in asciidoc files. Replace
+    inline plantuml with pre-rendered images
+
+[33mcommit 651b359524f92839b08271e9b093c5f7bc52be03[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 17:55:06 2025 -0600
+
+    Add lesson links to readme
+    
+    Add lesson links to readme for lessons 4 and 5
+
+[33mcommit 1703fe7b7e5d93a4e6b87d4c49faa54b079ca155[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 17:50:14 2025 -0600
+
+    Add extra exercise
+    
+    Add extra exercise to convert password lock exercise to use a state
+    machine
+
+[33mcommit b80ad949082553d9d41f5985945081bf8c5e4e6f[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 23 00:53:59 2025 -0600
+
+    Add lesson 5 plan
+    
+    Add lesson 5 plan on the zephry state machine framework
+
+[33mcommit c925f54c4e8227b040c31e8661fb85adf9d72c8f[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Oct 22 23:01:55 2025 -0600
+
+    Simple main.c with init
+    
+    Create a simple main.c file that initializes the buttons and LEDs
+
+[33mcommit 021d2e8f7540cc593d98f1757476b2512def8b27[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Oct 22 22:41:39 2025 -0600
+
+    Clean up cmake files
+    
+    Clean up cmake files so that the root level cmake file is used to
+    include the driver files and the app file includes only the files in app
+
+[33mcommit d34888ec7b9e980dd2a88fe8b09cbbafba07045d[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 22 22:13:35 2025 -0600
+
+    Add lesson 6 introduction and examples
+
+[33mcommit 11d25cf8f1d675874642d7fddc27434c8c171489[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 22 20:30:05 2025 -0600
+
+    Clean up BTN and LED modules
+
+[33mcommit 62877d06f3882919781ba43f796863d52f1735dc[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Tue Oct 21 22:56:17 2025 -0600
+
+    Add basic pwm functionality to LED module
+    
+    Modified LED module to internally work as pwm rather than a gpio. Added
+    new LED_pwm API to set an LEDs duty cycle between 0 - 100.
+
+[33mcommit 8d88431012b7e5f4df1a52fd3696d61149ae2cdb[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Tue Oct 21 21:28:12 2025 -0600
+
+    Add board overlay to enable all four leds as pwm
+    
+    Added an overlay file in app/boards/ that allows all four LEDs to be
+    used as PWM. Enabled PWM in app/prj.conf.
+    Verification:
+     - zephyr/samples/basic/fade_led will now fade all four LEDs
+
+[33mcommit 416e6f9fe9e5a10f2ff562059c6ce6f2c62fdac7[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sun Oct 19 09:18:54 2025 -0600
+
+    Fix merge conflicts from upstream/main
+
+[33mcommit 494e3899998a3c5b6c6c0cd24ade4aae91998e8b[m
+Merge: 715cbc2 793d0aa
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sun Oct 19 09:16:33 2025 -0600
+
+    Merge remote-tracking branch 'upstream/main'
+
+[33mcommit 793d0aaf5eedfd38e12b119cc590a06f517ee103[m
+Merge: df799d0 388d306
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 16 18:24:00 2025 -0600
+
+    Merge features/build-improvements into main
+    
+    Features/build improvements
+
+[33mcommit df799d056f9f20fedaab863b0c820a5fc56ace8e[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 16 18:18:55 2025 -0600
+
+    Remove unused branch from lesson 4
+    
+    The debug_buttons branch was unused so it was removed from the lesson 4
+    instructions
+
+[33mcommit 388d30643c316657d7668d9a5c800cb6205eed0e[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 16 18:09:34 2025 -0600
+
+    Fix build warning caused by missing board directory
+    
+    Fixed build warning for missing build directory
+
+[33mcommit eb7a1f94bd5040ddc031a4bd21f9c083975a1fa1[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Sat Oct 4 22:20:52 2025 -0600
+
+    Add new VScode editor settings
+    
+    Add VScode settings to auto-enable the virtual environment in the
+    integrated terminal and pass the compilation database to the C/C++
+    extension for better intellisense
+
+[33mcommit 8825675a7ad58c32686d16bf42cdf2c3ac1e292c[m
+Merge: 5183ca2 ac156e9
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 16 18:08:56 2025 -0600
+
+    Merge FiddlerNeb/post_embedded_primer_benO_Recommendations into main
+    
+    based on student feedback, changed/added steps which were missing or …
+
+[33mcommit 5183ca277ed731a68a350c774214e3fa3eb8e5fc[m
+Merge: 66f52eb fd00fe9
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 16 18:06:43 2025 -0600
+
+    Merge Marcus-Skarsgard/debug_buttons into main
+    
+    4_Debug_and_Buttons
+
+[33mcommit fd00fe9bdfcca811afbfa9b524abd60735067a53[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 15 20:08:18 2025 -0600
+
+    Address lesson feedback
+
+[33mcommit 715cbc282c4074a2956e1060c05da217b20a4a63[m
+Merge: 1e7ad4a 66f52eb
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Tue Oct 14 21:04:31 2025 -0600
+
+    Merge remote-tracking branch 'upstream/main'
+
+[33mcommit 62e638ce8be5ba05b553f214cc57954ae3c4ab97[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sat Oct 11 15:47:26 2025 -0600
+
+    Lesson revision 3
+
+[33mcommit c4bb5b7ab8e971cb85d8eb0642da6472e477347b[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sat Oct 11 14:50:42 2025 -0600
+
+    Lesson revision 2
+
+[33mcommit 90cc52aae0448f1ec3f27ec42c788cfbaba6321c[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sat Oct 11 13:43:21 2025 -0600
+
+    Rename btn module
+
+[33mcommit b9fb00ff3113d40f3c03a07681d9d6a71117cb9f[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sat Oct 11 13:21:27 2025 -0600
+
+    Make LED blinking handled by one thread only
+
+[33mcommit 74d369fb37a1741b51cc09b9fdccc9295344db29[m
+Merge: 6f6b472 1e7ad4a
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sat Oct 11 09:33:45 2025 -0600
+
+    Merge branch 'main' into debug_buttons
+
+[33mcommit ac156e9afda901606e07ea99473a3bcb3fcb3f85[m
+Author: FiddlerNeb <ben.odegaard10@gmail.com>
+Date:   Thu Oct 9 14:16:00 2025 -0600
+
+    adding nrf-devicetree to recommended extensions for .dts file highlighting, modifying workspace to be more specific to useful includes to reduce VSCode responsiveness
+
+[33mcommit f5cf3f86aeac55ae2b07864d4715760736a3257d[m
+Author: FiddlerNeb <ben.odegaard10@gmail.com>
+Date:   Thu Oct 9 13:52:26 2025 -0600
+
+    fix link to nordicsemi devicetree lesson
+
+[33mcommit 6f6b4722f136b7d245bf06eaf3b21f2d89a5917e[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 8 23:10:14 2025 -0600
+
+    Lesson revision 1
+    
+    Fixed typos and improved clarity in some instructions
+
+[33mcommit 465275d9d6d30afc485c1197d2fab04f5a5d617f[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 8 22:48:34 2025 -0600
+
+    Fix formatting
+
+[33mcommit c5b595c6e552fd473a79f8519df68aa3f9fab0ef[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 8 22:47:10 2025 -0600
+
+    Add exercises to lesson plan
+
+[33mcommit 6804e1bdd3e9f0d640cd9570bfa2b7cc37a8728f[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Oct 8 22:29:18 2025 -0600
+
+    Complete lesson content
+    
+    Finished making the lesson content, need to add exercises
+
+[33mcommit dde9f2a56b4f9a456f21f14fed0910523e46ebd5[m
+Author: FiddlerNeb <ben.odegaard10@gmail.com>
+Date:   Wed Oct 8 13:53:09 2025 -0600
+
+    review feedback, moving workspace file contents to .vscode, adding relevant instructions to readme, correcting checkout command syntax
+
+[33mcommit 21caa141ac088486ac04ee95b353a078870eae2c[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Tue Oct 7 22:55:40 2025 -0600
+
+    Add lesson plan and begin lesson instructions
+
+[33mcommit 8039bf51145ab53adeb520a2843218287813082b[m
+Author: FiddlerNeb <ben.odegaard10@gmail.com>
+Date:   Fri Oct 3 14:31:53 2025 -0600
+
+    adding notes in lesson3 on vscode
+
+[33mcommit e2059c3771009b1395ff4d091557c45d5983896f[m
+Author: FiddlerNeb <ben.odegaard10@gmail.com>
+Date:   Fri Oct 3 14:22:21 2025 -0600
+
+    based on student feedback, changed/added steps which were missing or were misleading
+
+[33mcommit 66f52eb10bda38c7d8e49d2bef1e928d983725e4[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Oct 2 19:07:01 2025 -0600
+
+    Clarify making a new `src/` dir in `app/`
+
+[33mcommit 5b47d761fa0e3c9016b1df64c37b288f6065aac2[m
+Merge: 42f35c7 9ef37ad
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 2 18:30:42 2025 -0600
+
+    Merge feature/lesson3-plan into master
+    
+    Feature/lesson3 plan
+
+[33mcommit 9ef37ad8e5ab51276612f8ddcf198b0b58b05796[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 2 18:24:12 2025 -0600
+
+    Reply to feedback on lesson 3 plan
+
+[33mcommit a1d11be830ab56cb2eeaa5d0b61422b146160765[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 2 00:25:09 2025 -0600
+
+    Add lesson 3 introduction section
+
+[33mcommit 0ff11ec6507e2de73023bb018cea267ce8d7b9f5[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Oct 2 00:21:04 2025 -0600
+
+    Remove unnecessary zephyr files
+    
+    Remove unnecessary zephyr files. Verify the application still builds
+    afterwards
+
+[33mcommit f352f29cc702079a1d1e4301f23d3bf8b92e6fe9[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Wed Oct 1 23:16:06 2025 -0600
+
+    Add lesson 3 lesson plan
+    
+    Add lesson plan for the embedded primer
+
+[33mcommit 42f35c75307437f0f6755528fe93d7fa2cb8a6cd[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 29 21:05:35 2025 -0600
+
+    Add instructions to add upstream remote
+
+[33mcommit 3a8ca0dc036f9d0c0af32296ed60a21888f78709[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Sep 25 20:32:47 2025 -0600
+
+    Add origin to push -u command
+
+[33mcommit 6d8a6f2717f46a8eb76a646092433f0e58701615[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Sep 25 20:08:47 2025 -0600
+
+    Add name/email config instructions
+
+[33mcommit a4fd200aa2b8da08cd7d99d3a2b0a386926bf6cd[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Sep 25 20:03:28 2025 -0600
+
+    Add personal access token instructions
+
+[33mcommit ee412964ec03faa84b2e94ca1ea882ef214c3de5[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 25 19:17:57 2025 -0600
+
+    Add .vscode settings folder
+
+[33mcommit 1e7ad4a4ae658ee985400d9c45c4addfe296cc09[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Thu Sep 25 18:34:14 2025 -0600
+
+    Add module specific directories
+
+[33mcommit 824ddfc782e5750e4aa6e981bca18a0e19cec363[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 25 18:31:18 2025 -0600
+
+    Add vscode install instructions
+
+[33mcommit 9acce71445f289e3f3a33f328eed54e12b91a1f4[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Thu Sep 25 18:20:20 2025 -0600
+
+    Modify project structure
+    
+    Established public API headers and created a modules directory to store
+    peripheral-specific helper APIs
+
+[33mcommit 10da00782b258e34bbc988f726e8ef521b716c3a[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Thu Sep 25 17:53:20 2025 -0600
+
+    Add BTN_was_pressed API and debounce routine
+
+[33mcommit 9c15084df6b8054a1ab0b6a67ba3eed4be8abc7b[m
+Author: Matthew Allwright <matt.a.4890@gmail.com>
+Date:   Thu Sep 25 00:46:06 2025 -0600
+
+    Add Lesson 2: Version Control
+
+[33mcommit d3cd4c1a1436e9dc31a06cc4d73bc47c7d93999d[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Mon Sep 22 23:03:35 2025 -0600
+
+    Add BTN module and define basic BTN APIs
+    
+    Defined basic APIs but left harder implementations incomplete.
+    Need to add support for mutex handling and button debouncing before BTN
+    is complete
+
+[33mcommit be46d9266c2dd3b8841540dee10cc204d2a3abb6[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sun Sep 21 00:07:53 2025 -0600
+
+    Add LED_blink function
+    
+    Added a function to blink the LED at a specified frequency by running
+    a seperate blinking thread. Modified all LED module public APIs to match
+    a public naming scheme. Removed un-needed (for the moment) files
+
+[33mcommit 76c03baacf0e19178189a699d327a87e03a28451[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Thu Sep 18 18:45:05 2025 -0600
+
+    Add set_led function to led module
+
+[33mcommit 0c8e01ae0de0275c0f6b39749c81f92341df1828[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 18 18:20:58 2025 -0600
+
+    Add missing install instructions
+    
+    Add missing install instruction found during testing and fix linux venv
+    activate command
+
+[33mcommit 408b942d1a7749ca6b00ac5e4d249f49bb73569c[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Wed Sep 17 23:40:38 2025 -0600
+
+    Add led peripheral encapsulation
+
+[33mcommit 46f3f930c06ead38c4def45ebc967bc121f52660[m
+Author: Marcus-Skarsgard <marcus.skarsgard123@gmail.com>
+Date:   Sun Sep 14 20:33:23 2025 -0600
+
+    Add bashrc aliases
+    
+    Added aliases for west build ... and west flash
+
+[33mcommit 43aaa71414a27a6463a871d644a468bcf8cb8f0a[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Thu Sep 11 18:31:30 2025 -0600
+
+    Convert Tabs to space
+
+[33mcommit 4014b872b8b53fc820d08410b3156beddf14eb52[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 8 16:26:11 2025 -0600
+
+    Update getting started instructions
+    
+    Fix copy paste error in linux instructions
+
+[33mcommit e40dc20da63dc5c4c2d35cc362db882f2a02615a[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 8 16:23:10 2025 -0600
+
+    Update readme
+    
+    Update readme with EIE specific content and create lesson plan for
+    installation with detailed install instructions
+
+[33mcommit 302345356aef31cf04918453394ee31a3cb3a7c2[m
+Merge: 90839b3 f09179e
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 8 14:59:24 2025 -0600
+
+    Merge feature/initial-zephyr-integration into main
+
+[33mcommit f09179e69a31b7e35b16c950ee2751a881bc2da4[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 8 14:36:34 2025 -0600
+
+    Fix basic setup instructions following feedback
+
+[33mcommit 6d7e05ad86eae6c202e2365a0129361835798208[m
+Author: Andy Smit <awsmit@shaw.ca>
+Date:   Mon Sep 8 14:35:43 2025 -0600
+
+    Add .cache to gitignore
+
+[33mcommit d27f1d44091e83afe79f9b990e0f135068fb340c[m
+Author: awsmit07 <awsmit@shaw.ca>
+Date:   Mon Sep 8 14:09:51 2025 -0600
+
+    Update readme with build instructions
+
+[33mcommit e41bbaabdcf04ba4cb07ade1bb9d76567338cf6b[m
+Author: awsmit07 <awsmit@shaw.ca>
+Date:   Mon Sep 8 13:55:14 2025 -0600
+
+    Update example application to build for nRF52840
+    
+    Update cmsis version and example application to build for nRF52840dk
+
+[33mcommit 43f924f332741e145f396be2a1c114ca13626cda[m
+Author: awsmit07 <awsmit@shaw.ca>
+Date:   Mon Aug 11 16:01:42 2025 -0600
+
+    Remove github workflow
+    
+    At least for now remove github workflows running automated documentation
+    builds.
+
+[33mcommit 59c4100559f21c8ba9860c660685cc2467c09882[m
+Author: awsmit07 <awsmit@shaw.ca>
+Date:   Mon Aug 11 15:36:18 2025 -0600
+
+    Configure west project
+    
+    Configure west project to include the ARM cmsis and nordic HAL only
+
+[33mcommit fb490c8ffcfd70ec2cc3fefa68dcec9047f4f467[m
+Author: Andy Smit <awsmit@proton.me>
+Date:   Mon Aug 11 14:49:14 2025 -0600
+
+    Pull in zephyr example application
+    
+    Pull in zephyr example application from
+    https://github.com/zephyrproject-rtos/example-application
+
+[33mcommit 90839b303be27979cd879ccd24e58815ee3b1a9d[m
+Author: Embedded in Embedded <eie@embeddedinembedded.com>
+Date:   Tue Jul 22 08:44:44 2025 -0600
+
+    Initial commit
