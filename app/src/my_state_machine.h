@@ -8,7 +8,6 @@
 #define MY_STATE_MACHINE_H
 
 void state_machine_init();
-
-int state_machine_run();
+void state_machine_run();
 
 #endif // MY_STATE_MACHINE_H

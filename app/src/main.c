@@ -14,24 +14,26 @@
 #define SLEEP_MS 1
 
 // MAIN
-int main(void) {
-    if (0 > BTN_init()){
+int main(void)
+{
+    // Setup buttons and leds/ validating not getting errrors
+    if (0 > BTN_init()) {
         return 0;
     }
-    if (0 > LED_init()){
+    if (0 > LED_init()) {
         return 0;
     }
 
+    // Initialize the state machine
     state_machine_init();
 
-    while(1){
-
-        int ret = state_machine_run();
-        if (0 > ret){
-            return 0;
-        }
-
-        k_msleep(SLEEP_MS);
+    // Run the state machine in a continuous loop
+    while (1) {
+        state_machine_run();
+        
+        // Sleep for 10 ms. 
+        k_msleep(10); 
     }
+
     return 0;
 }
